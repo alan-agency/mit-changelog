@@ -12,7 +12,7 @@
 
 ## v.0.4.0
 
-- Expand row to for a to view dataset/document summary and key tags
+- Expand row to view a dataset/document summary and key tags
 
 ## v.0.3.0
 
