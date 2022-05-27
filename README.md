@@ -22,7 +22,7 @@
 ## v.0.2.0
 
 - React Dashboard UI 
-- alan. agency brand UI theming
+- Brand UI theming
 
 ## v.0.1.0
 
