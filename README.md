@@ -7,7 +7,7 @@
 
 ## v.0.5.0
 
-- FlexMonster integration and ability to explore dataset
+- Pivot chart integration and ability to explore datasets
 - Abilityt to view a Document within the application. Supported formats: bmp, doc, docx, html, jpg, jpeg, pdf, png, ppt, pptx, tiff, txt, xls, xlsx
 
 ## v.0.4.0
@@ -16,7 +16,7 @@
 
 ## v.0.3.0
 
-- Google Auth
+- Google Auth integration
 - Typeahead search
 
 ## v.0.2.0
