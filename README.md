@@ -3,7 +3,7 @@
 ## v.0.6.0
 
 - Dynamic Filters
-- Ability to open a raw dataset / document in a new window
+- Ability to open a raw dataset/document in a new window
 
 ## v.0.5.0
 
@@ -12,7 +12,7 @@
 
 ## v.0.4.0
 
-- Expand row to for a to view Dataset/Doc summary and key tags
+- Expand row to for a to view dataset/document summary and key tags
 
 ## v.0.3.0
 
@@ -21,7 +21,7 @@
 
 ## v.0.2.0
 
-- Dashboard UI 
+- React Dashboard UI 
 - alan. agency brand UI theming
 
 ## v.0.1.0
@@ -30,4 +30,4 @@
 
 ## v.0.0.1
 
-- Directus CMS deployment and configuration
+- Node Headless CMS deployment and configuration
